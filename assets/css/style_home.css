@@ -1,0 +1,39 @@
+/*
+body {
+
+	background: linear-gradient(to left, #33CCCC , #336699);
+	
+}
+*/
+
+input {
+	width: 80% !important;
+}
+
+button {
+	width: 80% !important;
+}
+
+
+
+
+body {
+
+	background: linear-gradient(to left, #006666, #A6A659);
+}
+
+
+td {
+	background-color: gray;
+	width: 100px !important;
+	color: white;
+	font-size: 20px;
+}
+
+
+.navbar-default {
+	background: linear-gradient(to left, #006666, #A6A659)!important;
+	border-color: #006666  !important;
+	
+}
+
